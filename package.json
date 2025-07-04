@@ -1,4 +1,8 @@
 {
-    "name": "@webtaku/ts",
-    "license": "(MIT OR Apache-2.0)"
+  "name": "webtaku",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "(MIT OR Apache-2.0)"
 }
